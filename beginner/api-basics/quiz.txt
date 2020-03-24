@@ -1,0 +1,34 @@
+1. An API is the machine equivalent of a:
+    A	Server	
+    B	Personal computer
+    C	User interface
+    D	Set of instructions
+
+2. What is a common usage of APIs?
+    A	Ordering groceries for your home.
+    B	Walking you dog.
+    C	Displaying restaurant reviews based on your location.
+    D	A and B
+    E	A and C
+
+3. To retrieve, submit, update, or delete data in a data store you must use HTTP verbs. What are the names of those verbs, respectively?
+    A	GIVE, GET, SMILE, REPEAT
+    B	GET, POST, PUT, DELETE
+    C	POST, GET, DELETE, PLACE
+    D	BUY, SELL, HOLD, INVEST
+
+4. What is abstraction?
+    A	A post-modern style popular among European artists.
+    B	A form of artificial intelligence that develops complex human thoughts.
+    C	A way for applications to retrieve data without having to directly engage with the source system's logic.
+    D	A way for APIs to talk to one another.
+
+5. True or false: When creating APIs you are limited to one application per endpoint.
+    A	True
+    B	False
+
+6. What is a streaming API?
+    A	It's a method to request information from across an entire graph of data at once.
+    B	APIs that are all about brooks, rivers, and tunnels.
+    C	A type of API that checks for updated data within time increments to send data to the consuming application.
+    D	A type of API that sends data to the consuming application as soon as the data is updated or becomes available.

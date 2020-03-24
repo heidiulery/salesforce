@@ -18,4 +18,34 @@
     D	A and C
     E	B and C
 
+4. A consumer reporting agency is:
+    A	An agency that collects consumer evaulations of products
+    B	An entity that evaluates personal information to create consumer reports
+    C	A securities firm
+    D	An entity that uses consumer reports to make a decision about an individual
+
+5. An entity regulated by the New York Department of Financial Services must abide by which of the following obligations?
+    A	Conduct risk assessments and produce annual reports
+    B	Encrypt all customer data
+    C	Provide notice to consumers regarding use of consumer reports
+    D	Store all customer data within the state of New York
+
+6. A business is required to notify individuals of a data breach if which of the following pieces of information is inadvertently exposed?
+    A	Employee ID
+    B	Date of birth
+    C	Driver's license number
+    D	Mother's maiden name
+    E	State of residence
+
+7. The California Online Privacy Protection Act (CalOPPA) requires that commercial website operators do what?
+    A	Restrict use of their website to adults
+    B	Disclose what personal information they collect about a specified user
+    C	Implement safeguards to protect personal information stored online
+    D	Post a privacy policy detailing the categories of personal information their website collects
+
+8. Salesforce codifies its privacy commitments regarding its customers' data in which document?
+    A	The Data Processing Addendum
+    B	The Services Agreement
+    C	The Website Privacy Policy
+    D	The Business Associate Agreement
 

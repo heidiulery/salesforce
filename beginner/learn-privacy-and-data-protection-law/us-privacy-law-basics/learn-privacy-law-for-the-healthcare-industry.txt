@@ -1,0 +1,45 @@
+Learn Privacy Law for the Healthcare Industry
+
+Privacy, Security, and Breach Notification Rules :
+PHI : Protected health information.
+The Privacy Rule governs the collection , use, storage, and disclosure of PHI.
+The security Rule addresses how to properly secure PHI.
+The Breach Notification Rule requires certain notifications when unsecured PHI is breached.
+
+Department of Health and Human Services (HHS) :
+The HHS issued the Privacy, Security, and Breach Notification Rules to protect PHI.
+HHS also created the Office of Civil Rights and granted it the authority and responsibility to enforce these rules, whether through securing voluntary compliance or imposing monetary penalties.
+
+HIPAA directly applies to "covered entities" :
+Healthcare providers who transmit PHI in electronic form in connection with certain standard transactions, i.e. hospital, doctor’s office, nursing home, pharmacy.
+Healthcare plans, i.e. insurance company.
+Healthcare clearinghouses, i.e. third-party billing companies.
+
+Business associate : 
+A person or entity outside the covered entity’s workforce that provides services to a covered entity that involve the creation, receipt, maintenance, or transmission of PHI.
+
+The Privacy Rule includes the rights of individuals to :
+Access their own PHI.
+Direct the disclosure of their PHI to a third party.
+Request amendment of inaccurate or incomplete PHI.
+Receive a list of the PHI disclosures made by the covered entity.
+Request restrictions on the use or disclosure of their PHI.
+Request specific requirements or restrictions on the means of communication of their PHI.
+
+Business associate agreement :
+A written arrangement that explicitly describes the ways the business associate may use or disclose the PHI.
+
+The Security Rule establishes that a covered entity must take reasonable steps to :
+Ensure the confidentiality, integrity, and availability of all e-PHI.
+Design and implement policies and procedures to limit access to e-PHI.
+Train employees and ensure that they comply with internal policies.
+Regularly perform risk analysis and implement remediating security measures.
+Identify and protect against reasonably anticipated threats to the security or integrity of the e-PHI.
+
+Consequences for noncompliance with HIPAA :
+Failure to comply can result in investigation and enforcement actions by HHS or state attorneys general.
+When a covered entity fails to comply with HIPAA, the HHS Office of Civil Rights first seeks voluntary compliance with its rules. 
+The office has the power to issue civil monetary penalties.
+The Department of Justice has the authority to prosecute anyone who knowingly obtains or disclose PHI in violation of the Privacy Rule.
+
+

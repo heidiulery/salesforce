@@ -1,0 +1,9 @@
+Make APIs for You and Me
+
+Application Programming Interface (API) :
+An API is equivalent to a user interface, except it’s designed for software instead of humans.
+The client sends a request for specific information or functionality to another system.  
+That system returns the data or functionality in a response.
+To send or receive data, there is an expectation that it will be in a specific format that both sides can understand.
+
+

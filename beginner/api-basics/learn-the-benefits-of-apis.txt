@@ -1,0 +1,23 @@
+Learn the Benefits of APIs
+
+Benefits of using APIs :
+Outsourcing : 
+APIs allow you to outsource key data and functionality through a predictable standard interface.
+Increased mobility : 
+Even if the pattern of the interface changes, consuming devices can be easily adapted as the standards are well-defined and documented.
+Abstraction : 
+Your software just needs to know how to connect to the other system, not how the other system works.
+Increased developer productivity : 
+APIs are designed to take an existing code base and use it whenever, wherever instead of attempting to re-create those features.
+
+Hypertext transfer protocol (HTTP) :
+When applications connect to APIs from across the Internet, the majority of API providers make the connections over HTTP, otherwise known as the World Wide Web.
+
+HTTP verbs :
+POST : Submit requested data to a server for processing.
+GET : Retrieve requested data from a server.
+PUT : Update and replace existing data with new data being sent in the request.
+DELETE : Remove the requested data from the server.
+
+Mashups :
+When an application makes calls to multiple APIs and API providers at the same time.

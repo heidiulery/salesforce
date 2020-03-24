@@ -1,0 +1,36 @@
+Learn Privacy Law for the Financial Services Industry
+
+Consumer reporting agency (CRA) :
+A person or entity that, for a fee, assembles, maintains, or discloses information on an individuals’ creditworthiness or general characteristics to create consumer reports for third parties.
+
+Consumer report :
+Any communication by a CRA related to an individual that pertains to the individual’s creditworthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or lifestyle, and that is used to establish that individual’s eligibility for credit, insurance, employment, or some other business purpose.
+
+Investigative consumer report :
+A consumer report that contains information about an individual's character, reputation, or mode of living that was obtained through personal interviews with the individual's acquaintances.
+
+User :
+A person or entity that purchases a consumer report from a CRA.
+
+Furnisher :
+A person or entity that purchases a consumer report from a CRA.
+
+Disposal Rule :
+Users are required to dispose of consumer report information in a way that prevents unauthorized access and misuse of the data.
+
+Red Flags Rule :
+Requires agencies regulating financial entities to develop rules that mandate the detection, prevention, and mitigation of identity theft.
+
+GLBAs Safeguards Rule :
+Financial institutions must develop, implement, and maintain a comprehensive information security program covering reasonable administrative, technical, and physical security controls to protect the confidentiality and integrity of their customers’ information.
+
+GLBAs Financial Privacy Rule :
+Requires financial institutions to provide initial and annual privacy notices to their customers, clearly explaining what information they collect, how they protect it, whom they share the information with, and how a customer may opt out of that sharing.
+
+New York Department of Financial Services (NYDFS) :
+Requires that all companies subject to this agency’s authority assess their cybersecurity practices and risks, establish a robust cybersecurity program, and report potentially harmful cyber events to the NYDFS.
+
+Cybersecurity Regulations :
+Protect financial institutions and their customers from the growing threat of cyber-attacks.
+
+

@@ -1,0 +1,21 @@
+Put the Web in Web APIs
+
+API endpoints :
+Think of API endpoints like sockets that consuming applications plug into.
+The number of applications that can take advantage of the data abstracted by an APIs endpoint is limited only by the imagination of developers and the capacity of the API provider’s infrastructure.
+
+Engine of innovation :
+It wasn’t long after Google offered an API for Google Maps that thousands of third-party developers stepped forward with unique and innovative applications that consumed the API, incorporating Google’s mapping functionality directly into their apps.
+It is for this reason that APIs are often referred to as an engine of innovation.
+
+Remote procedure call (RPC) :
+Back in the days when Unix first came out, it was not uncommon for programmers to remotely invoke business logic from another machine across a network through a technology called RPC.
+
+GraphQL :
+Created by Facebook, it is inspired by the idea of a social graph and how different data items like friends, photos, places of work, and so on, form labyrinths of interrelated information.
+GraphQL makes it possible to request information from across an entire graph of data at once (versus the multiple roundtrips of requests it takes traditional APIs to accomplish the same thing).
+
+gRPC :
+Created by Google, it relies on HTTP/2 which can stream data bidirectionally.  
+gRPC can also turn an API into a streaming API that feeds its data to the consuming application as soon as that data becomes available.
+

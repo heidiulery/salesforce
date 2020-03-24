@@ -1,0 +1,18 @@
+Learn About State Laws Protecting Privacy Rights
+
+Massachusetts General Law Chapter 93H :
+Requires organizations to develop and implement a written, regularly audited plan specifically designed to protect consumers’ personal information. 
+The plan must include technical, physical, and administrative safeguards, i.e. limiting the collection of data, restricting access to the data, monitoring security hazards.
+
+California Online Privacy Protection Act (CalOPPA) :
+The posted privacy policy must list the categories of information the website collects, the third parties who may receive the information, and the process for the visitor to review and amend the information.
+
+Shine the Light Act :
+For-profit companies must disclose any personal information they share with third parties, and who those third parties are upon request..  
+Businesses are exempt if they have a public privacy policy outlining customers’ privacy rights and allowing their customers to opt in or out of data sharing.
+
+Song-Beverly Credit Card Act :
+Retailers and other businesses cannot ask a customer for personal identification information during a credit card transaction.
+
+
+ 
