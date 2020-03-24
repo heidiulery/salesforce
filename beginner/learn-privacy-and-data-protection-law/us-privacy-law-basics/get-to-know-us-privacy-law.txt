@@ -1,0 +1,64 @@
+Get to Know US Privacy Law
+
+Privacy Act :
+The Privacy Act governs federal governmental agencies’ collection, maintenance, use, and disclosure of personally identifiable information stored in their records.
+
+Sectoral approach to privacy regulations :
+The US has implemented laws that focus on certain industries or data types that are particularly sensitive and therefore require more protection.
+This approach is in contrast to the comprehensive approach, which is what the EU follows, where broad privacy laws apply to all industries and data types.
+
+Industry-specific agencies for US Privacy Law :
+The Department of Health and Human Services typically regulates the healthcare industry.
+Consumer Financial Protection Bureau, Federal Reserve, and Office of the Comptroller of the Currency typically regulate the financial services industry.
+
+Primary agency for US Privacy Law :
+The Federal Trade Commission (FTC) was created to prevent unfair competition in commerce, and its role expanded to general consumer protection.
+The agency focuses on the practice of companies posting but not adhering to a website privacy notice as a deceptive practice.
+
+Enforcement action :
+A legal action that the FTC brings before an administrative law judge.  It can proceed through trial and result in a judicial decision, but most often, an FTCs privacy enforcement action is resolved before trial through a consent decree.
+
+Consent decree :
+A consent decree is like a settlement agreement, where all parties (usually the FTC and the defendant) agree to the terms of the decree in exchange for the FTC ending the investigation or action.
+
+Five Fair Information Practice Principles :
+Provide notice about their privacy policies and procedures to their users and customers.
+Describe the choices available to individuals and obtain consent for collection or use of personal information.
+Provide individuals with access to their collected personal information.
+Properly secure and ensure the integrity of the collected information.
+Monitor compliance with their privacy policies and provide means to address concerns or complaints.
+
+Poor security practices cited by the FTC include failures to :
+Provide notice about their privacy policies and procedures to their users and customers
+Describe the choices available to individuals and obtain consent for collection or use of personal information
+Provide individuals with access to their collected personal information
+Properly secure and ensure the integrity of the collected information
+Monitor compliance with their privacy policies and provide means to address concerns or complaints
+
+Controlling the Assault of Non-Solicited Pornography and Marketing (CAN-SPAM) :
+Commercial emails distributed primarily to promote a product or service must meet certain requirements, i.e. commercial emails must have a clear, accurate subject line, disclosure of the email’s promotional nature, a means for the recipient to opt out.
+
+Children's Online Privacy Protection Act (COPPA) :
+COPPA regulates commercial websites or online services, like mobile apps, that are directed at children under 13 or that knowingly collect children’s personal information.
+
+Electronic Communications Privacy Act (ECPA) :
+ECPA regulates the collection and use of phone, text, and other online communications when they are made, transmitted, or stored electronically.
+
+Fair and Accurate Credit Transactions Act (FACTA) and Fair Credit Reporting Act (FCRA) :
+Both of these laws regulate the creation and use of consumer reports.
+FACTA also regulates the disposal of these reports.
+It also requires that certain financial businesses implement policies to detect, prevent, and mitigate identity theft.
+
+Family Educational Rights and Privacy Act (FERPA) :
+FERPA places restrictions on how educational institutions that receive federal funding can divulge student records.
+
+Gramm-Leach-Bliley Act (GLBA) :
+GLBA regulates US companies and their affiliates engaged in providing financial products or services to consumers.
+GLBA requires these companies to provide initial and annual privacy notices that outline their data  collection, use, and disclosure practices.
+
+Health Insurance Portability and Accountablity Act (HIPAA) :
+The Privacy Act governs federal governmental agencies’ collection, maintenance, use, and disclosure of personally identifiable information stored in their records.
+
+Telephone Consumer Protection Act (TCPA) :
+TCPA regulates and restricts telemarketing solicitations and the use of automatic telephone equipment, such as automatic dialing systems and pre recorded messages.
+

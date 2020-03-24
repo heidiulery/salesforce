@@ -1,0 +1,58 @@
+Learn Key Principles of the GDPR
+
+GDPR fairness and transparency :
+Organizations must always process personal data lawfully, fairly, and in a transparent manner.
+
+GDPR purpose limitation :
+Organizations can collect personal data only for specified, explicit, and legitimate purposes.  They cannot further process personal data in a manner that’s incompatible with those purposes.
+
+GDPR data minimization :
+Organizations can collect only personal data that’s adequate, relevant, and limited to what’s necessary for the intended purpose.
+
+GDPR accuracy :
+Organizations can collect only personal data that’s adequate, relevant, and limited to what’s necessary for the intended purpose.
+
+GDPR data deletion :
+Personal data must be kept only for as long as it’s needed to fulfill the original purpose of collection.
+
+GDPR security :
+Organizations must use appropriate technical and organizational security measures to protect personal data against unauthorized processing and accidental disclosure, access, loss, destruction, or alteration.
+
+Measures an organization can put in place to protect personal data :
+Encryption : The law encourages encryption as an effective way to help ensure the security and confidentiality of personal data.
+Pseudonymization : The GDPR encourages organizations to use pseudonymization as a risk-based measure to protect data security and the rights of individuals.
+Anonymization : It must be impossible for any individual to be identified from the data by any further processing or by combining it with other information.
+
+GDPR accountability :
+A data controller is responsible for implementing measures to ensure that the personal data it controls is handled in compliance with the principles of the GDPR.
+This includes appointing a data protection officer, imposing contractual obligations on processors, and using the principles of “privacy by design” and “privacy by default”.  
+A data controller must be able to demonstrate compliance.
+
+Privacy by design :
+This is the idea that when organizations plan a new processing activity or develop or implement a new product, service, or feature, they must design such activities and products with the GDPR principles in mind, to ensure they put appropriate safeguards in place to protect privacy.
+
+Privacy by default :
+This is the idea that organizations must always use the most “privacy friendly” default settings when collecting, processing, or storing data. 
+
+Data protection impact assessment :
+Analyses of new processing activities to identify and address privacy risks.
+
+GDPR data access :
+Data subjects have the right to confirm with a data controller whether the organization is processing their personal data.
+If it is, the controller must provide the  data subject with information about such processing, including the specific data processed, the purposes of the processing, and the other parties with whom such data has been shared.
+
+GDPR right to object :
+Data subjects can in certain cases object at any time to the processing of their personal data, in particular if the processing is for direct marketing purposes.
+
+GDPR data rectification :
+Data subjects can request that a controller correct or complete personal data if the data is inaccurate or incomplete.
+
+GDPR restriction of processing :
+Data subjects can request that a controller stop access to and modification of their personal data. 
+
+GDPR data portability :
+In certain cases, data subjects have the right to ask a controller to provide their personal data in a structured, commonly used, and machine-readable format - i.e. csv file - so that they can transmit their own personal data to another company.
+
+GDPR right to erasure :
+Also known as “the right to be forgotten,” this right empowers data subjects to request that a data controller delete or remove their personal data in situations such as the following: when the data is no longer needed for the original purpose, when the data subject withdraws consent, or when the data subject objects to the processing and the controller has no overriding legitimate interest in the processing.
+

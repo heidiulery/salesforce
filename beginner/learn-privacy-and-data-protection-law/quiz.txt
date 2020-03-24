@@ -1,0 +1,21 @@
+1. Which government agency regulates compliance with and enforces HIPAA?
+    A	The HHS Office of Civil Rights
+    B	The Office of Health and Safety
+    C	The Health Information Privacy Authority
+    D	The Privacy Regulation Authority
+
+2. HIPAA can apply to which of these organizations?
+    A	Healthcare advertising agencies
+    B	Health insurance companies
+    C	Pharmacies
+    D	Health advisory committees
+    E	B and C
+
+3. Which of the following is a data subject right that must be included in a notice of privacy practices?
+    A	The right to ask to amend inaccurate information
+    B	The right to access family members' information
+    C	The right to a list of disclosures made by the covered entity
+    D	A and C
+    E	B and C
+
+

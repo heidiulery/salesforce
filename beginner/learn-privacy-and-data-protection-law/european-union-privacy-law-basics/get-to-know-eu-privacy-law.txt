@@ -1,0 +1,62 @@
+Get to Know EU Privacy Law
+
+EU Data Protection Directive :
+Adopted in 1995, the directive required companies and governments to be transparent about the personal data they process, have a legitimate purpose for their use of that data, and exercise care in handling data.
+
+Data subject :
+A “natural person” who can be directly or indirectly identified by information such as a name, an identification number, location data, an online identifier (such as a username), or their physical, genetic, or other identity.
+
+Personal data :
+Any information relating to an  identified or identifiable data subject, i.e. gender, age, phone number, address.
+
+Sensitive personal data : 
+Personal data pertaining to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, information about health, sex life and sexual orientation, and genetic or biometric data.
+
+Processing : 
+Anything that is done to or with personal data.  Any collection, storage, transfer, sharing, modification, use or deletion of personal data.
+
+Controller :
+An entity that determines the purposes and means of processing of personal data.
+
+Processor :
+An entity that processes personal data based on the instructions of a controller.
+
+Pseudonymous data :
+Personal data that cannot be tied to a specific data subject without additional information that is stored separately, with technological measures to ensure the data is not combined with that additional information.
+
+Anonymous data :
+Data that cannot ever be connected to an identified or identifiable person.
+
+GDPR :
+General Data Protection Regulation.  
+The GDPR establishes rules for how companies, governments, and other entities can process the personal data of data subjects who are in  the EU.
+The rules reach beyond the physical borders of the EU and apply to any organization if it offers goods or services to people in the EU, or if it tracks the behaviour of those people (including through the use of cookies).
+
+GDPR basis of data processing :
+Organizations must give data subjects a genuine choice whether to allow their data to be processed, and data subjects must agree via a clear statement or affirmative action.
+
+GDPR compliance obligations :
+Requirements that processors only process personal data in accordance with the controller’s instructions, not share data with other vendors without consent of the controller, and implement appropriate security measures.  
+The law imposes several more compliance obligations on both data controllers and data processors to implement appropriate policies, assess the privacy impact of changes to business practices, and keep detailed records on data activities.
+
+GDPR breach notification :
+Data controllers must report any data breach to their data protection authority as soon as possible and no later than 72 hours after becoming aware of the breach, unless the breach is unlikely to result in any harm to the data subjects.
+
+GDPR data protection officer :
+Any organization that regularly processes sensitive personal data on a large scale or is involved in regular and systematic monitoring of data subjects must appoint a data protection officer to ensure the organization complies with privacy law.
+
+GDPR enforcement :
+Authorities can fine companies up to the greater of €20 million or 4% of a company’s annual global revenue, based on the seriousness of the breach and damages incurred.
+
+GDPR use of processors :
+Data controllers must have written agreements with data processors that ensure processors act only in accordance with the controller's instructions, implement appropriate security measures to protect the data, assist the controller with its compliance obligations, return or destroy personal data at the end of the relationship, and comply with the provisions of GDPR applicable to processors.
+
+GDPR profiling :
+The GDPR places certain restrictions on the automated processing of personal data to evaluate a data subject - i.e. work performance, economic situation, health, behavior.
+
+GDPR data subject rights :
+Data subjects can request that data controllers provide them with access to all personal data the controller maintains about them, and they can request that the data be corrected, deleted, frozen, or made portable.  
+They can object to certain processing and revoke previously given consent.
+
+GDPR one-stop-shop :
+The GDPR provides a central point of enforcement for organizations with operations in multiple EU member states by requiring such organizations to work with a lead supervisory authority for cross-border data protection issues.

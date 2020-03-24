@@ -1,0 +1,43 @@
+Implementing a GDPR Compliance Program
+
+Salesforce data processing addendum :
+This addendum contains data transfer frameworks ensuring that our customers can lawfully transfer personal data to Salesforce outside of the EU by relying on either our binding corporate rules, our Privacy Shield certification, or standard contractual clauses.
+
+Salesforce trust and compliance documentation : 
+This describes the architecture of each service, the security- and privacy-related audits and certifications the service has received, and the applicable administrative, technical, and physical controls.
+It also describes the infrastructure environment and entities material to our provision or services.
+
+Three mechanisms Salesforce uses to facilitate cross-border data transfers :
+Binding corporate rules :
+Also known as BCRs, these are company-wide data protection policies approved by European data protection authorities to facilitate transfers of personal data from the European Economic Area (EEA) to countries outside the EEA.
+BCRs are based on strict privacy principles established by EU data protection authorities and require intensive consultation with those authorities.
+EU-US Privacy Shield and Swiss-US Privacy Shield :
+Also known as BCRs, these are company-wide data protection policies approved by European data protection authorities to facilitate transfers of personal data from the European Economic Area (EEA) to countries outside the EEA.
+BCRs are based on strict privacy principles established by EU data protection authorities and require intensive consultation with those authorities.
+Standard contractual clauses :
+Also known as “model clauses,” these are legal contracts between parties who are transferring personal data from Europe to countries outside the EEA.  
+
+Preparing for compliance with the GDPR :
+Get buy-in and build your team :
+Make leadership aware of the importance of compliance with the GDPR.
+Identify the core team to work on the compliance effort.
+It’s particularly important to have representatives from the information security, procurement, legal, human resources, product management, and marketing departments on the team that leads the compliance effort.
+Assess your organization :
+Once an organization has assembled its cross-functional team, the team can analyze the organization’s existing privacy and security efforts to identify the top areas of focus.  
+One important element of the analysis is to understand where the organization stores personal data.  
+Organizations can carry out a data protection impact assessment to determine the actions they need to take to ensure that they’re properly protecting individual privacy rights.
+Establish controls and processes :
+Once an organization has a better understanding of its data, the team can create a roadmap of necessary operational and technological changes.
+Privacy notices - Privacy notices must be provided wherever personal data is collected, including through the use of website cookies and tags.
+Usage limitations - Administrative or technological controls can be used to limit the organization's use of data to the purposes for which it collected the data.
+Security - Administrative, physical, and technological security measures are necessary to prevent unauthorized access, use, modification, disclosure, or deletion of personal data.
+Data subject rights - Mechanisms and procedures are needed to manage data subject consent preferences and respond to complaints and requests for access, rectification, restriction, portability, and deletion.
+Vendor management - Organizations must have contracts with affiliates, vendors, and other third parties that collect or receive personal data, including standard contractual clauses or other mechanisms to legalize data transfers outside the EU.
+Incident response - Processes must be created to detect and respond to security breaches, including remediating the breach and notifying all necessary parties.
+Training - Employee and vendor training must be delivered to raise awareness regarding privacy policies, processes, and requirements, as well as to report concerns and suspicious data activity.
+Assessments - Data protection impact assessments must be conducted for each high risk data processing activity.
+Document compliance :
+The organization can compile copies of privacy notices and consent forms, the data inventory and register of data processing activities, written policies and procedures, training materials, internal company data transfer agreements, and vendor contracts.  
+It’s also useful for organizations to conduct periodic assessments or audits of the privacy program to ensure that everything is operating as planned.
+
+
